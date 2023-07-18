@@ -25,3 +25,6 @@ class Car:
     def stop(self):
 #         print("This car is stopped")
         print(f"This {self.model} is stopped")
+
+    def accelerate(self):
+        print(f"This {self.model} from {self.year} is accelerating!")
