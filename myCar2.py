@@ -10,4 +10,6 @@ print(car_2.year)
 print(car_2.color)
 
 car_1.drive()
+car_1.stop()
+car_2.drive()
 car_2.stop()
